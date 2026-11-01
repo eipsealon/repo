@@ -1,0 +1,19 @@
+Origin: Guppy's Repo
+Label: Guppy's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: just simple tweaks
+Date: Sun, 01 Nov 2026 11:44:09 GMT
+MD5Sum:
+ 600338045a15628a14ecba86ae6140c4 505 Packages
+ 889da18102dc9e2c6087853046130d32 364 Packages.gz
+ 8af38997e507004b786c37a4d38a5e3c 401 Packages.bz2
+ 28f62cc6f097e354a366f32d48b42df0 436 Packages.xz
+SHA256:
+ 63a67b9b012f4bc73e3972ea61136ef5faf2f50428f1049c542b1efa261a5f90 505 Packages
+ 3ac3186b424d5a5035dfb7a9c9f8d523f68afef5fe84cbc4367352d039f41441 364 Packages.gz
+ dcbe63ecdf40f457a086d860af345fe5b5dd4ba15fbaf4b5e4337c54272d5fbe 401 Packages.bz2
+ c30b7a637cf72609e124dcf6496273cdb7b828a4ba2168b387eb8819d0162f12 436 Packages.xz

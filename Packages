@@ -1,0 +1,15 @@
+Package: com.local.ipainstaller
+Name: IPAInstaller
+Description: Install .ipa files without AppSync (unpack to /Applications, ldid, uicache)
+Maintainer: me
+Author: me
+Section: Utilities
+Depends: firmware (>= 12.0)
+Architecture: iphoneos-arm
+Version: 1.1
+Installed-Size: 180
+Filename: debs/com.local.ipainstaller_1.1_iphoneos-arm.deb
+Size: 35334
+MD5sum: 849df472406322d8a7c2dc2a87c6224c
+SHA1: 271b567cab7456ece38f4229bcf642e68a1f539c
+SHA256: bb928b086a45a85966086e7389291a05cce5b0f936f4d72a79611c2cc6955fe1
